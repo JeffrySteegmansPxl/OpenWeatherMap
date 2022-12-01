@@ -1,3 +1,7 @@
 body {
   padding: 70px;
 }
+
+.min-height-xl {
+  min-height: 200px;
+}
